@@ -1,0 +1,15 @@
+age
+sex
+cp = chest pain
+trestbps = resting blood pressure (in mm Hg on admission to the hospital
+chol: serum cholestoral in mg/dl
+cigs (cigarettes per day)
+years (number of years as a smoker)
+fbs: (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+dm (1 = history of diabetes; 0 = no such history)
+famhist: family history of coronary artery disease (1 = yes; 0 = no)
+restecg: resting electrocardiographic results
+thalach: maximum heart rate achieved
+exang: exercise induced angina (1 = yes; 0 = no)
+thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+num: diagnosis of heart disease (angiographic disease status)
